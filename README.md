@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>♪ Traffic Bot</h1>
+  <h1>🔍 Traffic Bot</h1>
 </div>
  
 # Features:
