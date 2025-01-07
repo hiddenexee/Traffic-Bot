@@ -8,6 +8,7 @@
 - Full Requests
 - Need Proxies
 - High speed
+- 10 page scan
 - Google search console
  
 # Contact:
