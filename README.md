@@ -2,7 +2,7 @@
   <h1>🔍 Traffic Bot</h1>
 </div>
 
-It will be shared for free when it has 50 stars.
+<b>It will be shared for free when it has 50 stars.</b>
  
 # Features:
 
