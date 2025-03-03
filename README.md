@@ -1,6 +1,8 @@
 <div align="center">
   <h1>🔍 Traffic Bot</h1>
 </div>
+
+It will be shared for free when it has 50 stars.
  
 # Features:
 
